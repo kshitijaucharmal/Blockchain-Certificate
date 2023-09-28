@@ -1,0 +1,16 @@
+{
+  "name": "certificategen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-file-encrypt": "^2.1.2",
+    "web3.storage": "^4.5.5"
+  }
+}
