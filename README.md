@@ -11,7 +11,7 @@ To set up the HashComparer smart contract and IPFS storage, follow these steps f
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kshitijaucharmal/Blockchain-Certificate
    ```
 
 2. **Switch to the Smart Contracts Branch**:
