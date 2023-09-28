@@ -25,6 +25,7 @@ To set up the HashComparer smart contract and IPFS storage, follow these steps f
 
    ```bash
    npm install
+   npm install --save-dev hardhat
    ```
 
 4. **Run Tests**:
