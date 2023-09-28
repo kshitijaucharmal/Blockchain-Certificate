@@ -49,12 +49,12 @@ async function upload() {
 
   // Get Data as a file object to send to web3.storage
   let files = await makeFileObjects();
-  const cid = await client.put(files);
+  //const cid = await client.put(files);
 
   console.log("Cid Is: ", cid);
 
   // Store files on Web3Storage
-  storeWithProgress(files);
+  //storeWithProgress(files);
 
   //let data_dec = key.decrypt(data_en);
 }
