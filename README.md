@@ -67,5 +67,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Thanks to mentors, team members, and all contributors
 
 ---
-
-Made with ❤️ by the team for SIH 2023.
